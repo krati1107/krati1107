@@ -1,16 +1,16 @@
-## Hi there 👋
+## About Me
 
-<!--
-**krati1107/krati1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst and AI Engineer passionate about turning data into actionable insights and building intelligent solutions.
 
-Here are some ideas to get you started:
+### Data
+- Data Analysis & Visualization
+- SQL & Database Design
+- Business Intelligence (Power BI, Tableau)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI
+- Machine Learning
+- Generative AI & LLM Applications
+- Building AI-Powered Tools
+
+- **Currently exploring:** RAG pipelines & AI agents
+- **Currently learning:** Advanced Python & MLOps
