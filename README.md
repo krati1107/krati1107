@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krati</h1>
-<h3 align="center">Data Analyst & AI Engineer | Python · SQL · Power BI · ML</h3>
+<h3 align="center">Data Analyst & AI Engineer | Python · SQL · Power BI · ML · GenAI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst;AI+Engineer;Turning+Data+into+Insights;Building+Intelligent+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+ML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst;AI+Engineer;Building+Intelligent+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+LangChain;RAG+%7C+LangGraph+%7C+n8n+%7C+FastAPI" />
 </p>
 
 ---
@@ -14,7 +14,7 @@ I'm a **Data Analyst** and **AI Engineer** passionate about turning raw data int
 - 🔍 I love finding patterns in data and telling stories with it
 - 🤖 I build ML models and AI-powered tools that solve real problems
 - 📊 I design dashboards that help businesses make better decisions
-- 🌱 **Currently exploring:** RAG pipelines, LLM agents, MLOps
+- 🌱 **Currently exploring:** RAG pipelines, LLM agents, MLOps, workflow automation
 - 🎯 **Goal:** Deliver data-driven impact and intelligent automation
 
 ---
@@ -74,7 +74,7 @@ I'm a **Data Analyst** and **AI Engineer** passionate about turning raw data int
 - Large Language Models (LLMs)
 - Prompt Engineering
 - RAG (Retrieval-Augmented Generation)
-- LLM Agents & LangChain
+- LLM Agents · LangChain · LangGraph · CrewAI
 
 **⚙️ MLOps & Deployment**
 - Model Deployment (Flask, FastAPI, Streamlit)
@@ -87,6 +87,20 @@ I'm a **Data Analyst** and **AI Engineer** passionate about turning raw data int
 - Vector Databases (FAISS, Pinecone)
 - Jupyter · Google Colab
 - VS Code · Anaconda
+
+---
+
+## ⚡ Automation & API Skills
+
+**🔗 Workflow Automation**
+- n8n — Building automated workflows and AI-powered integrations
+- API Integration & Orchestration
+- Event-Driven Architecture
+
+**🚀 API Development**
+- FastAPI — Building high-performance REST APIs for ML models
+- RESTful API Design & Documentation
+- Model Serving & Endpoint Deployment
 
 ---
 
@@ -114,6 +128,13 @@ I'm a **Data Analyst** and **AI Engineer** passionate about turning raw data int
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
+**AI Engineering & Automation**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -127,21 +148,25 @@ I'm a **Data Analyst** and **AI Engineer** passionate about turning raw data int
 
 ## 🚀 Featured Projects
 
-### [Customer Churn Prediction](https://github.com/krati1107)
-ML model that predicts which customers are likely to churn, helping businesses improve retention.
-**Stack:** Python · Scikit-learn · Pandas · Matplotlib
+### [Telco Customer Churn Prediction & Retention Analysis](https://github.com/krati1107/telco-customer-churn-analysis)
+End-to-end Data Analyst project — SQL + Python + Machine Learning + Interactive Dashboard for Telecom Customer Churn Prediction.
+**Stack:** MySQL · Python (Pandas, NumPy) · Scikit-learn (Random Forest) · Matplotlib · Seaborn · Chart.js · HTML/CSS
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-EEF2FF?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/krati1107/telco-customer-churn-analysis)
 
-### [Sales Dashboard in Power BI](https://github.com/krati1107)
-Interactive dashboard showing KPIs, trends, and insights for a retail business.
-**Stack:** Power BI · SQL · Excel
+### [Zerodha AI Financial Intelligence](https://github.com/krati1107/zerodha-ai-financial-intelligence)
+AI-powered financial intelligence platform using LangChain, RAG, CrewAI, and Streamlit. Live stock analysis, document Q&A, and multi-agent market summaries.
+**Stack:** Python · LangChain · RAG · CrewAI · Streamlit · OpenAI API
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-EEF2FF?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/krati1107/zerodha-ai-financial-intelligence)
 
-### [AI Chatbot with RAG](https://github.com/krati1107)
-AI-powered chatbot using LLMs and Retrieval-Augmented Generation for accurate answers.
-**Stack:** Python · LangChain · OpenAI API · FAISS
+### [Flipkart Customer Satisfaction Prediction (CSAT)](https://github.com/krati1107/-flipkart-customer-satisfaction-ml)
+Machine Learning project predicting whether a Flipkart customer is satisfied or dissatisfied after a customer support interaction.
+**Stack:** Python · Pandas · Scikit-learn · XGBoost · SMOTE · SHAP · TextBlob
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-EEF2FF?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/krati1107/-flipkart-customer-satisfaction-ml)
 
-### [NLP Sentiment Analysis](https://github.com/krati1107)
-Text classification model that detects sentiment from customer reviews.
-**Stack:** Python · NLTK · Scikit-learn · Streamlit
+### [AI Chatbot with RAG & LangGraph](https://github.com/krati1107)
+AI-powered chatbot using LLMs, Retrieval-Augmented Generation, and LangGraph for accurate, context-aware answers.
+**Stack:** Python · LangChain · LangGraph · OpenAI API · FAISS · Streamlit
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-EEF2FF?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/krati1107)
 
 ---
 
@@ -161,8 +186,8 @@ Text classification model that detects sentiment from customer reviews.
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/krati-shrivastava11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kratishrivastav9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/krati1107"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
