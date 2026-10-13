@@ -1,4 +1,5 @@
 Hi 👋, I'm Krati Shrivastava
+
 Data Analyst | SQL · Python · Power BI · Excel | NASSCOM Certified
 
 I turn raw data into clean insights, KPI dashboards, and ML models that
