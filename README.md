@@ -5,7 +5,7 @@ Data Analyst | SQL · Python · Power BI · Excel | NASSCOM Certified
 I turn raw data into clean insights, KPI dashboards, and ML models that
 support business decisions.
 
-📍 Indore, MP · Open to relocation across India
+📍 Bhopal, MP · Open to relocation across India
 📫 kratishrivastav9@gmail.com · 🔗 LinkedIn · 🏆 HackerRank
 
 🛠️ Core Stack
