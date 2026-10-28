@@ -1,33 +1,52 @@
-Hi 👋, I'm Krati Shrivastava
+# Hi 👋, I'm Krati Shrivastava
 
-Data Analyst | SQL · Python · Power BI · Excel | NASSCOM Certified
+### Aspiring Data Analyst | SQL, Python, Power BI & Excel | Turning Data into Insights 📊
 
-I turn raw data into clean insights, KPI dashboards, and ML models that
-support business decisions.
+🔭 **My Projects**
 
-📍 Bhopal, MP · Open to relocation across India
-📫 kratishrivastav9@gmail.com · 🔗 LinkedIn · 🏆 HackerRank
+- 📉 [Telecom Customer Churn Prediction and Retention Analysis](https://github.com/krati1107/telco-customer-churn-analysis)
+- 📊 [E-commerce Sales & Profitability Analytics](https://github.com/krati1107/sales-profitability-analytics)
+- 🤖 [Zerodha AI Financial Intelligence Platform](https://github.com/krati1107/zerodha-ai-financial-intelligence)
 
-🛠️ Core Stack
-Analytics: SQL, Python (Pandas, NumPy), EDA, Statistics
-BI & Viz: Power BI, DAX, Power Query, Excel, Matplotlib, Seaborn
-ML: Scikit-learn, Random Forest, Model Evaluation
-AI Engineering: LangGraph, MCP, RAG, FastAPI
-Tools: Git, GitHub, Jupyter, MySQL
+🌱 I’m currently learning **SQL, Python, Advanced Excel, Power BI, Statistics, Machine Learning, and Generative AI.**
 
-🚀 Featured Projects
-🔹 Zerodha AI Financial Intelligence — AI portfolio analytics with FastAPI,
-   MCP server, and multi-stage AI pipeline
-🔹 Telco Customer Churn Prediction — Random Forest (~80% accuracy), 15+ SQL
-   queries, interactive retention dashboard
-🔹 E-commerce Profitability Analytics (Olist) — 26 SQL queries, Power BI
-   report on 100K+ orders
-🔹 Flipkart Customer Satisfaction Prediction — XGBoost with SMOTE and SHAP
+🤝 I’m looking to collaborate on **Data Analytics, Business Intelligence, and Python projects.**
 
-📜 Certifications
-NASSCOM Certified Data Analyst · Full Stack Data Science & AI (AlmaBetter, A+)
-· IIT Patna Fellowship in Data Science & Agentic AI · HackerRank 5★ SQL, 4★ Python
-· Forage: BCG X, Tata, Deloitte, British Airways
+💬 Ask me about **SQL, Python, Pandas, Excel, Power BI, Data Cleaning, Exploratory Data Analysis (EDA), and Data Visualization.**
 
-⭐️ Open to Data Analyst, BI Analyst, and Reporting Analyst roles.
+👨‍💻 All of my projects are available at [GitHub](https://github.com/krati1107).
+
+📫 How to reach me: **kratishrivastav9@gmail.com**
+
+⚡ Fun fact: I enjoy turning raw data into meaningful insights and building projects that solve real-world problems.
+
+---
+
+### 🛠️ Languages and Tools
+
+<p>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/></a>
+</p>
+
+**Analytics:** SQL • Python • Pandas • NumPy • Excel • Power BI • Data Visualization • Machine Learning
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krati1107&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krati1107&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=krati1107&theme=tokyonight)
+
+
 
